@@ -57,7 +57,7 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 64px;
+    gap: 32px;
     padding: 64px 128px;
 
 }
@@ -162,8 +162,7 @@ a{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 64px;
-    margin: 32px;
+    padding: 64px 128px;
     color: #F9FAF8;;
     background-color: #3883F6;
     border-radius: 5px;
